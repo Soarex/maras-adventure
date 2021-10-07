@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc31a90d084b56a4cb7ff4f48e65b41d, type: 3}
+  m_Name: Wolf Forest
+  m_EditorClassIdentifier: 
+  titles:
+  - Lupo
+  - Lupo
+  - Mara
+  - Mara
+  - Lupo
+  - Mara
+  - Lupo
+  - Mara
+  - Lupo
+  - Lupo
+  - Mara
+  - Lupo
+  - Lupo
+  - Lupo
+  - Mara
+  - Lupo
+  - Lupo
+  - Lupo
+  - Lupo
+  - Mara
+  - Mara
+  - Mara
+  - Lupo
+  - Mara
+  - Mara
+  - Mara
+  - Lupo
+  - Lupo
+  - Mara
+  - Lupo
+  - Lupo
+  - Lupo
+  dialogues:
+  - Grazie per avermi salvato. Io sono Lupo, il grande spirito della foresta
+  - Cosa ti porta da queste parti?
+  - Mi ha mandato un pulcino per cercarti
+  - Non so dove sia finito quello scansafatiche adesso...
+  - Ah si, ho presente Pulcino. E` il mio amore
+  - Come il tuo amore???
+  - "Lunga storia. Perch\xE8 mi stavate cercando?"
+  - Volevamo chiederti se sapevi qualcosa di questi mostri che sono apparsi improvvisamente
+  - "Tristemente si, \xE8 tutta colpa della mia amata"
+  - "Tutto \xE8 iniziato qualche mese fa, quando vidi un bellissimo fucile in vendita,
+    ma non avevo i fondi per comprarlo"
+  - Un fucile? Ma se sei un lupo
+  - Posso continuare con la storia o vuoi continuare con il tuo razzismo?????
+  - Come dicevo ero a corto di fondi, quindi ho trovato un lavoretto estivo in una
+    bellissima spiaggia
+  - "L\xEC ho conosciuto una bellissima lupetta con cui ho fatto tante cose"
+  - E` lei la tua amata?
+  - No
+  - "Una volta tornato in patria, la mia unica amata, lo spirito del deserto, \xE8
+    venuta a saperlo"
+  - "Presa dalla rabbia, si avvent\xF2 contro di me, imprigionandomi nella foresta"
+  - I mostri che vedi sono dei guardiani che ha sparso in giro per assicurarsi che
+    nessuno venisse a liberarmi
+  - Aaaahh, capisco
+  - (Questo ha problemi)
+  - "Giusto per curiosit\xE0, lo spirito del deserto com'\xE8? E` una bella lupetta
+    anche lei?"
+  - "No, lei \xE8 una serpentina, anche se la notte le piace vestirsi da giraffa"
+  - "(Si ok, questo \xE8 pazzo)"
+  - "B\xE8 Lupo, \xE8 stato un piacere ma devo andare dal Pulcino ad aggiornarlo"
+  - Sai per caso dove lo posso trovare?
+  - "Boh, prova a vedere se \xE8 nella sua casa al villaggio, probabilmente \xE8
+    l\xEC che gioca a Zelda"
+  - "La sua casa \xE8 quella con il mega giardino a sud-east"
+  - "Vuoi dirmi che un idiota come lui \xE8 riuscito a farsi una casa cosi bella?"
+  - "B\xE8, la casa \xE8 tecnicamente del villaggio, lui l'ha ottenuta con qualche
+    accozzo"
+  - Comunque adesso vado a cercare di calmare la mia amata
+  - Ciaooo

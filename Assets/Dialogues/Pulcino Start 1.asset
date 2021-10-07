@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc31a90d084b56a4cb7ff4f48e65b41d, type: 3}
+  m_Name: Pulcino Start 1
+  m_EditorClassIdentifier: 
+  titles:
+  - Pulcino
+  - Mara
+  - Pulcino
+  - Mara
+  - Pulcino
+  - Mara
+  - Mara
+  - Pulcino
+  - Mara
+  - Pulcino
+  - Mara
+  - Pulcino
+  - Mara
+  - Pulcino
+  - Mara
+  dialogues:
+  - Aiutooo!!!!
+  - Cosa dovresti essere?
+  - Un pulcino
+  - Un pulcino? Tu?
+  - Si! Non hai mai visto un pulcino in vita tua?????
+  - Lasciamo stare...
+  - Come ci sei finito li dentro?
+  - E` apparso un mostro all'improvviso e mi ha intrappolato qui dentro
+  - E non puoi scavalcare?
+  - Ti sembro abbastanza in forma per farlo?????
+  - Effettivamente...
+  - "Se uccidi quel mostro per\xF2 la barriera dovrebbe scomparire"
+  - "E perch\xE8 dovrei farlo?"
+  - "Perch\xE8 sono carino e coccoloso?"
+  - "Si vabb\xE8, diciamo che lo faccio solo perch\xE8 non ho niente di meglio da
+    fare"

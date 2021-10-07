@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc31a90d084b56a4cb7ff4f48e65b41d, type: 3}
+  m_Name: Pulcino Village
+  m_EditorClassIdentifier: 
+  titles:
+  - Pulcino
+  - Mara
+  - Pulcino
+  - Mara
+  - Pulcino
+  - Mara
+  - Pulcino
+  - Mara
+  - Mara
+  - Pulcino
+  - Pulcino
+  - Pulcino
+  - Pulcino
+  - Mara
+  - Pulcino
+  - Mara
+  - Pulcino
+  - Pulcino
+  - Mara
+  - Pulcino
+  dialogues:
+  - Oh, bentornata
+  - Un cavolo bentornata, mentre io ero li a uccidere mostri, tu eri qui beato a
+    giocare
+  - Hey, Hyrule non si salva da sola
+  - Giuro che ti ammazzo
+  - "Comunque, novit\xE0?"
+  - Si, ho incotrato "il tuo amore"
+  - "Ah gi\xE0, sappi che ha fatto tutto lui"
+  - Si si, non mi interessa
+  - "Ha detto che \xE8 stata la sua amata in preda alla gelosia a scatenare tutti
+    quei mostri"
+  - Aaahhh, allora capisco
+  - "Devi sapere che quei due fingevano sempre di non sopportarsi. Recentemente per\xF2
+    hanno iniziato ad ammettere la verit\xE0 e hanno iniziato ad uscire insieme"
+  - "Lui per\xF2 vuole ancora dimostrarsi il maschio alpha, quindi ogni tanto ci
+    prova con altre tipe"
+  - "Probabilmente questa volta allo spirito del deserto non \xE8 andata gi\xF9 molto
+    bene"
+  - Quindi? Cosa hai intenzione di fare?
+  - Niente, adesso torno dentro e mi faccio gli affari miei con Zelda
+  - "Fermo l\xEC! Hai detto che mi avresti mostrato la strada per andare alla mia
+    formazione"
+  - "Ah gi\xE0, sei arrivata. La formazione \xE8 in questo villaggio"
+  - Sei solo in anticipo di un giorno
+  - "Basta! Dopo questa ti spenn\xF2!!!!!!!!!!!!"
+  - Aiutoooooooooooooo!!!!!!!!!!!!!

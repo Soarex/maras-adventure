@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc31a90d084b56a4cb7ff4f48e65b41d, type: 3}
+  m_Name: Pulcino Start 2
+  m_EditorClassIdentifier: 
+  titles:
+  - Pulcino
+  - Mara
+  - Pulcino
+  - Mara
+  - Pulcino
+  - Mara
+  - Mara
+  - Pulcino
+  - Mara
+  - Pulcino
+  - Mara
+  dialogues:
+  - Grazie, mi hai salvato
+  - Ma questo posto ha sempre avuto questi cosi?
+  - No, sono apparsi recentemente. Dovremmo andare a chiedere al grande spirito della
+    foresta cosa sta succedendo
+  - Dovremmo?? Dovrai!
+  - Tu piuttosto, come ci sei finita qui?
+  - Boh, stavo andato ad una seduta di formazione, ma penso di essermi persa
+  - "Il centro Sardegna \xE8 tutto uguale..."
+  - Ah, allora perfetto, io so dove ti trovi. Se mi aiuti ti mostro la strada
+  - Mi sento ricattata...
+  - "Macch\xE8. La nostra destinazione \xE8 la foresta a nord da qui, dopo il villaggio.
+    Ti ho aperto la strada"
+  - Ok...
